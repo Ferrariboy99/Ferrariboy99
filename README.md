@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **NEOS Namibia Website**
 
-- 🌱 I’m currently learning **React.js,Laravel**
+- 🌱 I’m currently learningReact.js and Laravel*
 
 - 👯 I’m looking to collaborate on **Full-stack website development.**
 
@@ -30,7 +30,7 @@
 <a href="https://fb.com/festushelao.shatipamba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Festus-Helao-Shatipamba" height="30" width="40" /></a>
 <a href="https://instagram.com/helao_nafimane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="helao_nafimane" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shatiscripts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shatiscripts" height="30" width="40" /></a>
-<a href="https://discord.gg/Ferrariboy99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ferrariboy99" height="30" width="40" /></a>
+<a href="https://discord.gg/ferrariboy99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ferrariboy99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
