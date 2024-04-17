@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **NEOS Namibia Website**
 
-- 🌱 I’m currently learningReact.js and Laravel*
+- 🌱 I’m currently learning React.js and Laravel*
 
 - 👯 I’m looking to collaborate on **Full-stack website development.**
 
