@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on **NEOS Namibia Website**
 
-- 🌱 I’m currently learning React.js and Laravel*
+- 🌱 I’m currently learning React.js and Wordpress*
 
 - 👯 I’m looking to collaborate on **Full-stack website development.**
 
-- 👨‍💻 All of my projects are available at [www.shatiscripts.com](www.shatiscripts.com)
+- 👨‍💻 All of my projects are available at [www.festushelaoshatipamba.com](festushelaoshatipamba.com)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **festushelaoshatipamba@gmail.com**
 
-- 📄 Know about my experiences [www.shatiscripts.com](www.shatiscripts.com)
+- 📄 Know about my experiences [www.festushelaoshatipamba.com](festushelaoshatipamba.com)
 
 - ⚡ Fun fact **I'm on a journey to acquire vast knowledge.**
 
