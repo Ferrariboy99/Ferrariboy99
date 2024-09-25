@@ -29,7 +29,6 @@
 <a href="https://fb.com/festushelao.shatipamba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Festus-Helao-Shatipamba" height="30" width="40" /></a>
 <a href="https://instagram.com/helao_nafimane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="helao_nafimane" height="30" width="40" /></a>
 <a href="https://festushelaoshatipamba.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="festushelaoshatipamba.com" height="30" width="40" /></a>
-<a href="https://discord.gg/ferrariboy99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ferrariboy99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
