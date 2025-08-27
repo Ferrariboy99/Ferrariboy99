@@ -9,7 +9,7 @@
 
 ## 🔭 Current Work
 - Working on **PumpTrack-App** – a real-time borehole pump tracking application using Flutter & Firebase  
-- Learning **React.js** and **Fluter** for modern web development  
+- Learning **React.js** and **Flutter** for modern web development  
 
 ## 👯 Collaboration
 - Open to **Full-Stack Website Development** collaborations  
