@@ -52,7 +52,7 @@
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrariboy99&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
   <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferrariboy99&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com?user=ferrariboy99&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ferrariboy99/ferrariboy99/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ferrariboy99/ferrariboy99/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 *README crafted with ❤️ and passion for coding*
