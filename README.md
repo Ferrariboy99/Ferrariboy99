@@ -1,68 +1,99 @@
-<h1 align="center">Hi 👋, I'm Festus Helao Shatipamba</h1>
-<h3 align="center">A passionate Full-Stack Developer from Namibia</h3>
+# 🌟 Welcome to My Digital Realm! I'm Festus Helao Shatipamba 🌟
+
+### 🧑‍💻 Full-Stack Developer | 🇳🇦 Namibian Innovator | 🔥 Passionate Coder
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ferrariboy99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ferrariboy99&label=Digital+Footprints&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 🔭 Current Work
-- Working on **PumpTrack-App** – a real-time borehole pump tracking application using Flutter & Firebase  
-- Learning **React.js** and **Flutter** for modern web development  
+## 🚀 Current Cosmic Journey
 
-## 👯 Collaboration
-- Open to **Full-Stack Website Development** collaborations  
+- 🌌 Building the future with **PumpTrack-App** - real-time borehole monitoring with Flutter & Firebase
+- 🧠 Expanding my knowledge galaxy with **React.js** and **Flutter**
+- ⚡ Crafting digital experiences that make a difference
 
-## 💬 Ask Me About
-- **HTML, CSS, JavaScript, React, Flutter, Firebase**  
+## 🌈 Collaboration Constellations
 
-## 📫 Contact Me
-- Email: [festushelaoshatipamba@gmail.com](mailto:festushelaoshatipamba@gmail.com)  
-- Portfolio: [www.festushelaoshatipamba.com](https://www.festushelaoshatipamba.com)  
-
-## ⚡ Fun Fact
-- I'm on a journey to **acquire vast knowledge** in programming and technology  
+- ✨ Seeking stellar collaborations in **Full-Stack Development**
+- 🤝 Open to innovative projects that solve real-world problems
+- 🌟 Passionate about mentoring and being mentored
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ My Tech Arsenal
 
-<p align="left">
+### 🎨 Frontend Sorcery
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Backend Wizardry
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Universe Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferrariboy99&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrariboy99&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferrariboy99&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect Across the Digital Universe
+
+<p align="center">
+  <a href="https://www.festushelaoshatipamba.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:festushelaoshatipamba@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://linkedin.com/in/festus-helao-shatipamba-9ab977251" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://fb.com/festushelao.shatipamba" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/helao_nafimane" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 ---
 
-## 🛠 Languages & Tools
+## ⚡ Galactic Fun Facts
 
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-</p>
+- 🚀 On an eternal quest for knowledge in the programming cosmos
+- 🌍 Proudly representing Namibia in the digital world
+- 📚 Believe that every line of code tells a story
+- 🌱 Continuously growing and learning new technologies
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  <i>✨ The only way to do great work is to love what you do ✨</i>
+</p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferrariboy99&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github.com/ferrariboy99/ferrariboy99/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+*README crafted with ❤️ and passion for coding*
