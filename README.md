@@ -92,8 +92,5 @@
   <i>✨ The only way to do great work is to love what you do ✨</i>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ferrariboy99/ferrariboy99/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
-*README crafted with ❤️ and passion for coding*
+*README crafted with ❤️ and passion for coding by ShatiScripts*
