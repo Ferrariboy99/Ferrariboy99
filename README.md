@@ -66,7 +66,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferrariboy99&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferrariboy99&theme=radical" alt="GitHub Streak" />
-</p>
